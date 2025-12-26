@@ -1,0 +1,8 @@
+We should choose between first or second scenario as it looks relatively simpler to implement
+We have to show how the simulation might look with all the performance indicators, etc in the video
+We should allow the player to pick supplies/weapons from a list - like basically they would also have to be in charge of outfitting the team (two options)
+We should also generate some images of how the metrics would look like?
+We should show how the player would be evaluated after the simulation and also how would they be controlling each of the team members
+We should also have visuals that show how the simulation will actually be played by the player
+The player would be controlling one player, but initiate orders for the other characters (NPCs), and they'll move according to the user's command in the simulation. They'll have a UI, and then choose a list of commands, just like in RTS games, which will be shown in the analytics phase in the end, and then they'll decide what to initiate, it might be wrong and it might be right, and that's how they either fail, or succussed the mission
+ 
